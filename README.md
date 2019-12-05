@@ -8,6 +8,6 @@ Instructions:
 1. Put in your office location in the footer of every page or delete it.
 1. Delete any links from the top menu bar you do not want to use.
 1. Add a picture of yourself and replace the `<img src=(your_picture).png height=250>` with the filename of your picture.
-1. Add a PDF of your CV and title it `cv.pdf`.
+1. Replace `cv.pdf` with your actual CV.
 1. Either fill in the "Last updated:" field in all of the pages, or delete it.
 1. Add this to a web host of your choosing. To use github, follow [these directions](https://gist.github.com/TylerFisher/6127328). 
