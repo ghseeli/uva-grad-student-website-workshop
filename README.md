@@ -1,6 +1,6 @@
 # uva-grad-student-website-workshop
 
-This is a basic academic website template for the University of Virginia Graduate Seminar on December 6, 2020.
+This is a basic academic website template for the University of Virginia Graduate Seminar on December 6, 2019.
 
 Instructions:
 
